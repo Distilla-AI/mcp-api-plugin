@@ -50,9 +50,10 @@ The server uses OAuth 2.0 with PKCE. When Claude connects, the server asks you t
 
 Ask Claude in plain language after the server is connected. The tools you can call depend on your Distilla account.
 
-1. Prepare a meeting brief for a company on my watchlist. Include the current thesis, recent results, and the main risks.
-2. Write a short earnings review for a company I follow. State what changed and what I should track next.
-3. Compare two companies in the same industry. Explain the drivers that matter for a fundamental thesis.
+1. Summarize NVIDIA's recorded price moves over the past three months, explain the stated reasons, and identify recurring patterns.
+2. Among NVIDIA, Apple, and Microsoft, which cited AI-driven cost savings as a guidance or margin lever in their last four earnings periods?
+3. Count non-delisted US-headquartered companies by sector, and show the 15 largest sector groups.
+4. Find public-library research from the past year on NVIDIA AI data-center demand. Summarize common and conflicting views, and list the source documents.
 
 ## Permissions
 
