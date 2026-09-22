@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "distilla": {
+      "type": "http",
+      "url": "https://api.distilla.ai/mcp"
+    }
+  }
+}
