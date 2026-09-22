@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "distilla",
+  "displayName": "Distilla",
+  "version": "1.0.0",
+  "description": "Connect Claude to Distilla for fundamental equity research.",
+  "author": {
+    "name": "Distilla, Inc.",
+    "email": "support@distilla.ai",
+    "url": "https://www.distilla.ai"
+  },
+  "homepage": "https://www.distilla.ai",
+  "repository": "https://github.com/Distilla-AI/mcp-api-plugin",
+  "license": "MIT",
+  "keywords": ["equity-research", "fundamental-investing", "mcp"],
+  "defaultEnabled": false
+}
